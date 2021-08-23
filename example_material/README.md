@@ -10,9 +10,12 @@ Pure python, UI implemented via dash.
 # Modules
 ## Data ops: 
 exploration of input data, grouping, subsetting, planning for training dataset
-__Input__: csv file in the format (image_path, label_path) - segmentation or 
+
+__Input__: 
+csv file in the format (image_path, label_path) - segmentation or 
     (image_path, label) - classification or
     (image_path, coco_json_path) - object detection
+    
 __tools__:
 1. EDA of labels, regions
 1. input transform checking
