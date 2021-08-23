@@ -1,13 +1,14 @@
 # Segmentation
 ## segmentation baseline code
 https://github.com/Project-MONAI/tutorials/blob/0.6.0/3d_segmentation/torch/unet_training_dict.py
+
 https://github.com/Project-MONAI/tutorials/blob/0.6.0/3d_segmentation/torch/unet_evaluation_dict.py
+
 https://github.com/Project-MONAI/tutorials/blob/0.6.0/3d_segmentation/torch/unet_inference_dict.py
 
 ## Metrics for segmentation
 
-https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_metrics.
-html#sphx-glr-auto-examples-segmentation-plot-metrics-py
+https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_metrics.html#sphx-glr-auto-examples-segmentation-plot-metrics-py
 
 http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/Python_html/34_Segmentation_Evaluation.html
 
